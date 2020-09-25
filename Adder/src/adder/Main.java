@@ -18,5 +18,4 @@ public class Main {
         for(int i=2;i<args.length;i++)
             sum+=Integer.parseInt(args[i]);
         return sum;
-    }
 }
