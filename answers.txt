@@ -1,0 +1,7 @@
+a.There are a total of 9 commits made by step 8, including those historically present.
+b.The git.ignore file was added on Jan 24,2017
+c.The git log allows one to filter, inspect and manage project history, working on the hisotrically available data.
+  The git status allows one to inspect the working directory and status.
+d.Untracked files are files that git does not attempt to keep track of, Unstage files are files that are tracked but are yet to be commited to memory.
+e.Git reset has to do specifically with updating the index, while git checkout is responsible for updating the working tree in question.
+f.The merge part of the pit pullcommand will fail, and the local branch will remain untocuhed.
