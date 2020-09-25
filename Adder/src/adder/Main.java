@@ -8,7 +8,9 @@ public class Main {
             System.out.println(result);
         } catch (Exception e) {
             System.err.println("Please provide at least two numbers to add");
-        }
+        } catch(NumberFormatException exception) {
+    System.out.println("Please provide numbers");
+        
     }
 
     private static int addArguments(String[] args) {
